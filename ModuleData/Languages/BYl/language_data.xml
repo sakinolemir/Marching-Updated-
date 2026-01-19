@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LanguageData id="Biełaruskaja" name="Biełaruskaja" subtitle_extension="pl,pol,pl-pl" supported_iso="pl" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.TurkishTextProcessor" under_development="false">
+  <LanguageFile xml_path="BYl/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

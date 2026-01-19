@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="march_settings" text="Marş Ayarları" />
+    <string id="march_order_key" text="Marş Emri Tuşu" />
+    <string id="march_order_key_hint" text="Emir menüsü açıkken bu tuşa basarak marş modunu açıp kapatabilirsiniz" />
+    <string id="artemis_support" text="Artemis Mızrak Animasyon Desteği" />
+    <string id="artemis_support_hint" text="Artems Lively Animations kullanıyorsanız uyumlu mızrak animasyonları için etkinleştirin" />
+    
+    <string id="formation_speeds" text="Düzen Hızları" />
+    <string id="infantry_speed" text="Piyade Hızı" />
+    <string id="infantry_speed_hint" text="Piyade birlikleri için marş hızı" />
+    <string id="ranged_speed" text="Menzilli Hızı" />
+    <string id="ranged_speed_hint" text="Menzilli birlikleri için marş hızı" />
+    <string id="cavalry_speed" text="Süvari Hızı" />
+    <string id="cavalry_speed_hint" text="Süvari birlikleri için marş hızı" />
+    
+    <string id="ai_march_settings" text="AI Marş Ayarları" />
+    <string id="ai_march_enabled" text="AI Marşını Etkinleştir" />
+    <string id="ai_march_enabled_hint" text="AI kontrollü birliklerin otomatik olarak marş modunu kullanmasına izin ver" />
+    <string id="ai_march_distance" text="Marş Mesafesi" />
+    <string id="ai_march_distance_hint" text="AI, düşmanlar bu mesafeden uzakta olduğunda marş kullanır (metre)" />
+    
+    <string id="no_formations_selected" text="Yürüyüş için hiçbir birlik seçilmedi!" />
+    <string id="march_single_formation" text="{FORMATION}, uygun adım marş!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, yürüyüşü durdur!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, uygun adım marş!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, yürüyüşü durdur!" />
+    <string id="everyone_march" text="Herkes! Uygun adım marş!" />
+    <string id="everyone_dismiss" text="Herkes! Yürüyüşü durdur!" />
+  </strings>
+</base>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

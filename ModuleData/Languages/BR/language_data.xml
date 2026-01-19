@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Português (BR)" name="Português (BR)" subtitle_extension="pt" supported_iso="pt,por,pt-pt,pt-br" under_development="false">
+  <LanguageFile xml_path="BR/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

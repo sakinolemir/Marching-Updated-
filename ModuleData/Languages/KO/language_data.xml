@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="한국어" name="한국어" subtitle_extension="ko" supported_iso="ko-kr,ko,kor,kr-kr" under_development="false">
+  <LanguageFile xml_path="KO/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

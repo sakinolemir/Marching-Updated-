@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LanguageData id="Magyar" name="Magyar" subtitle_extension="hu-HU" supported_iso="hu,hun,hu-hu,hu-HU" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.TurkishTextProcessor" under_development="false">
+  <LanguageFile xml_path="HU/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

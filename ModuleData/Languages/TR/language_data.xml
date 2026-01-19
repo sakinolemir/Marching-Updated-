@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LanguageData id="Türkçe" name="Türkçe" subtitle_extension="tr-TR" supported_iso="tr,tur,tr-tr" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.TurkishTextProcessor" under_development="false">
+  <LanguageFile xml_path="TR/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

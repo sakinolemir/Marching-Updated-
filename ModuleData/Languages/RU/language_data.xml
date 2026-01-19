@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Русский" name="Русский" subtitle_extension="ru" supported_iso="ru,rus,ru-ru,ru-md" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.RussianTextProcessor" under_development="false">
+  <LanguageFile xml_path="RU/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

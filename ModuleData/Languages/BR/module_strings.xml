@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português (BR)" />
+  </tags>
+  <strings>
+    <string id="march_settings" text="Configurações de Marcha" />
+    <string id="march_order_key" text="Tecla de Ordem de Marcha" />
+    <string id="march_order_key_hint" text="Pressione esta tecla enquanto o menu de ordens estiver aberto para alternar o modo de marcha" />
+    <string id="artemis_support" text="Suporte de Animação de Lança Artemis" />
+    <string id="artemis_support_hint" text="Ative se você usa o Artemis Lively Animations para melhores animações de lança" />
+    
+    <string id="formation_speeds" text="Velocidades de Formação" />
+    <string id="infantry_speed" text="Velocidade da Infantaria" />
+    <string id="infantry_speed_hint" text="Velocidade de marcha para unidades de infantaria" />
+    <string id="ranged_speed" text="Velocidade de Unidades à Distância" />
+    <string id="ranged_speed_hint" text="Velocidade de marcha para unidades à distância" />
+    <string id="cavalry_speed" text="Velocidade da Cavalaria" />
+    <string id="cavalry_speed_hint" text="Velocidade de marcha para unidades de cavalaria" />
+    
+    <string id="ai_march_settings" text="Configurações de Marcha da IA" />
+    <string id="ai_march_enabled" text="Habilitar Marcha da IA" />
+    <string id="ai_march_enabled_hint" text="Permitir que as formações controladas pela IA usem o modo de marcha automaticamente" />
+    <string id="ai_march_distance" text="Distância de Marcha" />
+    <string id="ai_march_distance_hint" text="A IA utiliza a marcha quando os inimigos estão mais longe do que esta distância (metros)" />
+    
+    <string id="no_formations_selected" text="Nenhuma formação selecionada para marchar!" />
+    <string id="march_single_formation" text="{FORMATION}, marchar!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, encerrar marcha!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, marchar!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, encerrar marcha!" />
+    <string id="everyone_march" text="Todos! Marchar!" />
+    <string id="everyone_dismiss" text="Todos! Encerrar marcha!" />
+  </strings>
+</base>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

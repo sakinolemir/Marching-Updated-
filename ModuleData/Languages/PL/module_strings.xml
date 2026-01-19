@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Polski" />
+  </tags>
+  <strings>
+    <string id="march_settings" text="Ustawienia Marszu" />
+    <string id="march_order_key" text="Klawisz Rozkazu Marszu" />
+    <string id="march_order_key_hint" text="Naciśnij ten klawisz, gdy menu rozkazów jest otwarte, aby przełączyć tryb marszu" />
+    <string id="artemis_support" text="Wsparcie Animacji Włóczni Artemis" />
+    <string id="artemis_support_hint" text="Włącz, jeśli używasz Artemis Lively Animations dla lepszych animacji włóczni" />
+    
+    <string id="formation_speeds" text="Prędkości Formacji" />
+    <string id="infantry_speed" text="Prędkość Piechoty" />
+    <string id="infantry_speed_hint" text="Prędkość marszu dla jednostek piechoty" />
+    <string id="ranged_speed" text="Prędkość Jednostek Dystansowych" />
+    <string id="ranged_speed_hint" text="Prędkość marszu dla jednostek dystansowych" />
+    <string id="cavalry_speed" text="Prędkość Kawalerii" />
+    <string id="cavalry_speed_hint" text="Prędkość marszu dla jednostek kawalerii" />
+    
+    <string id="ai_march_settings" text="Ustawienia Marszu SI" />
+    <string id="ai_march_enabled" text="Włącz Marsz SI" />
+    <string id="ai_march_enabled_hint" text="Zezwalaj formacjom kontrolowanym przez SI na automatyczne używanie trybu marszu" />
+    <string id="ai_march_distance" text="Dystans Marszu" />
+    <string id="ai_march_distance_hint" text="SI używa marszu, gdy wrogowie znajdują się dalej niż ten dystans (metry)" />
+    
+    <string id="no_formations_selected" text="Nie wybrano formacji do marszu!" />
+    <string id="march_single_formation" text="{FORMATION}, marsz!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, przerwać marsz!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, marsz!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, przerwać marsz!" />
+    <string id="everyone_march" text="Wszyscy! Marsz!" />
+    <string id="everyone_dismiss" text="Wszyscy! Przerwać marsz!" />
+  </strings>
+</base>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    
+    <!-- MCM Ayarları - Ana Ayarlar -->
+    <string id="march_settings" text="Marş Ayarları" />
+    <string id="march_order_key" text="Marş Emri Tuşu" />
+    <string id="march_order_key_hint" text="Emir menüsü açıkken bu tuşa basarak marş modunu açıp kapatabilirsiniz" />
+    <string id="artemis_support" text="Artemis Mızrak Animasyon Desteği" />
+    <string id="artemis_support_hint" text="Artemis modunu kullanıyorsanız daha iyi mızrak animasyonları için etkinleştirin" />
+    
+    <!-- MCM Ayarları - Düzen Hızları -->
+    <string id="formation_speeds" text="Düzen Hızları" />
+    <string id="infantry_speed" text="Piyade Hızı" />
+    <string id="infantry_speed_hint" text="Piyade birlikleri için marş hızı" />
+    <string id="ranged_speed" text="Menzilli Hızı" />
+    <string id="ranged_speed_hint" text="Menzilli birlikleri için marş hızı (okçular, tüfekçiler, hafif piyadeler)" />
+    <string id="cavalry_speed" text="Süvari Hızı" />
+    <string id="cavalry_speed_hint" text="Tüm süvari birlikleri için marş hızı (süvariler, atlı okçular)" />
+    
+    <!-- MCM Ayarları - AI Marş Ayarları -->
+    <string id="ai_march_settings" text="AI Marş Ayarları" />
+    <string id="ai_march_enabled" text="AI Marşını Etkinleştir" />
+    <string id="ai_march_enabled_hint" text="AI kontrollü düzenlerin otomatik olarak marş modunu kullanmasına izin ver" />
+    <string id="ai_march_distance" text="Marş Mesafe Eşiği" />
+    <string id="ai_march_distance_hint" text="AI düşmanlar bu mesafeden uzakta olduğunda marş kullanır (metre)" />
+    
+    <!-- Oyun İçi Mesajlar -->
+    <string id="no_formations_selected" text="Marş ettirilecek düzen seçilmedi!" />
+    <string id="march_single_formation" text="{FORMATION}, marş!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, marşı bırak!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, marş!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, marşı bırakın!" />
+    <string id="everyone_march" text="Herkes! Marş!" />
+    <string id="everyone_dismiss" text="Herkes! Marşı bırakın!" />
+    
+  </strings>
+</base>

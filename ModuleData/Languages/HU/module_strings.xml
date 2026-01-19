@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Magyar" />
+  </tags>
+  <strings>
+    <string id="march_settings" text="Menetelés Beállításai" />
+    <string id="march_order_key" text="Menetelés Parancsgombja" />
+    <string id="march_order_key_hint" text="A parancsmenü megnyitása közben ezzel a gombbal kapcsolhatja be vagy ki a menetelés módot" />
+    <string id="artemis_support" text="Artemis Lándzsa Animáció Támogatás" />
+    <string id="artemis_support_hint" text="Engedélyezze a kompatibilis lándzsa animációkhoz, ha az Artemis Lively Animations módot használja" />
+    
+    <string id="formation_speeds" text="Alakzat Sebessége" />
+    <string id="infantry_speed" text="Gyalogság Sebessége" />
+    <string id="infantry_speed_hint" text="A gyalogos egységek menetelési sebessége" />
+    <string id="ranged_speed" text="Távolsági Egységek Sebessége" />
+    <string id="ranged_speed_hint" text="A távolsági egységek menetelési sebessége" />
+    <string id="cavalry_speed" text="Lovasság Sebessége" />
+    <string id="cavalry_speed_hint" text="A lovas egységek menetelési sebessége" />
+    
+    <string id="ai_march_settings" text="AI Menetelés Beállításai" />
+    <string id="ai_march_enabled" text="AI Menetelés Engedélyezése" />
+    <string id="ai_march_enabled_hint" text="Engedélyezi az AI által vezérelt egységeknek a menetelés mód automatikus használatát" />
+    <string id="ai_march_distance" text="Menetelési Távolság" />
+    <string id="ai_march_distance_hint" text="Az AI akkor alkalmazza a menetelést, ha az ellenség ezen a távolságon kívül tartózkodik (méter)" />
+    
+    <string id="no_formations_selected" text="Nincs kijelölt alakzat a meneteléshez!" />
+    <string id="march_single_formation" text="{FORMATION}, díszlépésben indulj!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, menetelést megszüntetni!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, díszlépésben induljatok!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, menetelést megszüntetni!" />
+    <string id="everyone_march" text="Mindenki! Díszlépésben indulj!" />
+    <string id="everyone_dismiss" text="Mindenki! Menetelést megszüntetni!" />
+  </strings>
+</base>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

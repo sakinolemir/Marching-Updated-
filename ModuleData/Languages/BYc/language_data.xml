@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LanguageData id="Беларуская" name="Беларуская" subtitle_extension="by,blr,be-by" supported_iso="by" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.TurkishTextProcessor" under_development="false">
+  <LanguageFile xml_path="BYc/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

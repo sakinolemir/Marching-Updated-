@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Biełaruskaja" />
+  </tags>
+  <strings>
+    <string id="march_settings" text="Najałady Maršu" />
+    <string id="march_order_key" text="Klaviša Zahadu ab Maršy" />
+    <string id="march_order_key_hint" text="Naciśnicie hetuju klavišu pry adkrytym mieniu zahadaŭ, kab uklučyć režym maršu" />
+    <string id="artemis_support" text="Padtrymka Animacyjaŭ Dzidy Artemis" />
+    <string id="artemis_support_hint" text="Uklučycie, kali vy vykarystoŭvajecie Artemis Lively Animations dla palapšeńnia animacyi dzidaŭ" />
+    
+    <string id="formation_speeds" text="Chutkaść Pastraieńniaŭ" />
+    <string id="infantry_speed" text="Chutkaść Piachoty" />
+    <string id="infantry_speed_hint" text="Chutkaść maršu dla piachotnych atraŭ" />
+    <string id="ranged_speed" text="Chutkaść Stralkoŭ" />
+    <string id="ranged_speed_hint" text="Chutkaść maršu dla stralkovych atraŭ" />
+    <string id="cavalry_speed" text="Chutkaść Kavaleryi" />
+    <string id="cavalry_speed_hint" text="Chutkaść maršu dla kavaleryjskich atraŭ" />
+    
+    <string id="ai_march_settings" text="Najałady Maršu ŠI" />
+    <string id="ai_march_enabled" text="Uklučyć Marš ŠI" />
+    <string id="ai_march_enabled_hint" text="Dazvolić atradam pad kiravańniem ŠI aŭtamatyčna vykarystoŭvać režym maršu" />
+    <string id="ai_march_distance" text="Dystancyja Maršu" />
+    <string id="ai_march_distance_hint" text="ŠI vykarystoŭvaje marš, kali vorahi znachodziacca dalej za hetuju adlehaść (u mietrach)" />
+    
+    <string id="no_formations_selected" text="Nie vybrana nivodnaha pastraieńnia dla maršu!" />
+    <string id="march_single_formation" text="{FORMATION}, marš!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, adstavić marš!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, marš!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, adstavić marš!" />
+    <string id="everyone_march" text="Usie! Marš!" />
+    <string id="everyone_dismiss" text="Usie! Adstavić marš!" />
+  </strings>
+</base>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

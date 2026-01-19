@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    
+    <!-- MCM Settings - Main Settings -->
+    <string id="march_settings" text="March Settings" />
+    <string id="march_order_key" text="March Order Key" />
+    <string id="march_order_key_hint" text="Press this key while order menu is open to toggle march mode" />
+    <string id="artemis_support" text="Artemis Spear Animation Support" />
+    <string id="artemis_support_hint" text="Enable if you use Artemis mod for better spear animations" />
+    
+    <!-- MCM Settings - Formation Speeds -->
+    <string id="formation_speeds" text="Formation Speeds" />
+    <string id="infantry_speed" text="Infantry Speed" />
+    <string id="infantry_speed_hint" text="Marching speed for infantry units" />
+    <string id="ranged_speed" text="Ranged Speed" />
+    <string id="ranged_speed_hint" text="Marching speed for ranged units (archers, crossbowmen, skirmishers)" />
+    <string id="cavalry_speed" text="Cavalry Speed" />
+    <string id="cavalry_speed_hint" text="Marching speed for all cavalry units (cavalry, horse archers)" />
+    
+    <!-- MCM Settings - AI March Settings -->
+    <string id="ai_march_settings" text="AI March Settings" />
+    <string id="ai_march_enabled" text="Enable AI March" />
+    <string id="ai_march_enabled_hint" text="Allow AI controlled formations to use march mode automatically" />
+    <string id="ai_march_distance" text="March Distance Threshold" />
+    <string id="ai_march_distance_hint" text="AI uses march when enemies are farther than this distance (meters)" />
+    
+    <!-- In-Game Messages -->
+    <string id="no_formations_selected" text="No formations selected to march!" />
+    <string id="march_single_formation" text="{FORMATION}, march!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, dismiss march!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, march!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, dismiss march!" />
+    <string id="everyone_march" text="Everyone! March!" />
+    <string id="everyone_dismiss" text="Everyone! Dismiss march!" />
+    
+  </strings>
+</base>

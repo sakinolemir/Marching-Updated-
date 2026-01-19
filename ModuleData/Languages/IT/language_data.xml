@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Italiano" name="Italiano" subtitle_extension="it" supported_iso="it,ita,it-it,it-ch" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.ItalianTextProcessor" under_development="false">
+  <LanguageFile xml_path="IT/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

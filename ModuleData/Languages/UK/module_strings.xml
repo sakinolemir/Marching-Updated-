@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Українська" />
+  </tags>
+  <strings>
+    <string id="march_settings" text="Налаштування Маршу" />
+    <string id="march_order_key" text="Клавіша Наказу про Марш" />
+    <string id="march_order_key_hint" text="Натисніть цю клавішу при відкритому меню наказів, щоб увімкнути режим маршу" />
+    <string id="artemis_support" text="Підтримка Анімацій Списа Artemis" />
+    <string id="artemis_support_hint" text="Увімкніть, якщо ви використовуєте Artemis Lively Animations для покращення анімації списів" />
+    
+    <string id="formation_speeds" text="Швидкість Шикувань" />
+    <string id="infantry_speed" text="Швидкість Піхоти" />
+    <string id="infantry_speed_hint" text="Швидкість маршу для піхотних загонів" />
+    <string id="ranged_speed" text="Швидкість Стрільців" />
+    <string id="ranged_speed_hint" text="Швидкість маршу для стрілецьких загонів" />
+    <string id="cavalry_speed" text="Швидкість Кавалерії" />
+    <string id="cavalry_speed_hint" text="Швидкість маршу для кавалерійських загонів" />
+    
+    <string id="ai_march_settings" text="Налаштування Маршу ШІ" />
+    <string id="ai_march_enabled" text="Увімкнути Марш ШІ" />
+    <string id="ai_march_enabled_hint" text="Дозволити загонам під керуванням ШІ автоматично використовувати режим маршу" />
+    <string id="ai_march_distance" text="Дистанція Маршу" />
+    <string id="ai_march_distance_hint" text="ШІ використовує марш, коли вороги знаходяться далі цієї відстані (в метрах)" />
+    
+    <string id="no_formations_selected" text="Не вибрано жодного шикування для маршу!" />
+    <string id="march_single_formation" text="{FORMATION}, марш!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, відставити марш!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, марш!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, відставити марш!" />
+    <string id="everyone_march" text="Всі! Марш!" />
+    <string id="everyone_dismiss" text="Всі! Відставити марш!" />
+  </strings>
+</base>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

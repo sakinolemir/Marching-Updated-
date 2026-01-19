@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Polski" name="Polski" subtitle_extension="pl" supported_iso="pl,pol,pl-pl" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.PolishTextProcessor" under_development="false">
+  <LanguageFile xml_path="PL/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

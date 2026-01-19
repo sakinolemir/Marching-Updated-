@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LanguageData id="Українська" name="Українська" subtitle_extension="ua,uk,ukr,ua-ua,uk-ua" supported_iso="uk" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.TurkishTextProcessor" under_development="false">
+  <LanguageFile xml_path="UK/module_strings.xml" />
+</LanguageData>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->

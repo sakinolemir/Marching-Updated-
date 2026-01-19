@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="march_settings" text="Marscheinstellungen" />
+    <string id="march_order_key" text="Marschbefehl-Taste" />
+    <string id="march_order_key_hint" text="Drücke diese Taste, während das Befehlsmenü geöffnet ist, um den Marschmodus umzuschalten" />
+    <string id="artemis_support" text="Artemis Speer-Animations-Unterstützung" />
+    <string id="artemis_support_hint" text="Aktivieren, wenn du Artemis Lively Animations für bessere Speeranimationen verwendest" />
+    
+    <string id="formation_speeds" text="Formationsgeschwindigkeiten" />
+    <string id="infantry_speed" text="Infanterie-Geschwindigkeit" />
+    <string id="infantry_speed_hint" text="Marschgeschwindigkeit für Infanterieeinheiten" />
+    <string id="ranged_speed" text="Fernkampf-Geschwindigkeit" />
+    <string id="ranged_speed_hint" text="Marschgeschwindigkeit für Fernkampfeinheiten" />
+    <string id="cavalry_speed" text="Kavallerie-Geschwindigkeit" />
+    <string id="cavalry_speed_hint" text="Marschgeschwindigkeit für Kavallerieeinheiten" />
+    
+    <string id="ai_march_settings" text="KI-Marscheinstellungen" />
+    <string id="ai_march_enabled" text="KI-Marsch aktivieren" />
+    <string id="ai_march_enabled_hint" text="Erlaubt KI-gesteuerten Formationen, den Marschmodus automatisch zu nutzen" />
+    <string id="ai_march_distance" text="Marschdistanz" />
+    <string id="ai_march_distance_hint" text="Die KI nutzt den Marsch, wenn Feinde weiter als diese Distanz entfernt sind (Meter)" />
+    
+    <string id="no_formations_selected" text="Keine Formationen zum Marschieren ausgewählt!" />
+    <string id="march_single_formation" text="{FORMATION}, Marsch!" />
+    <string id="dismiss_single_formation" text="{FORMATION}, Marsch abbrechen!" />
+    <string id="march_multiple_formations" text="{FORMATIONS}, Marsch!" />
+    <string id="dismiss_multiple_formations" text="{FORMATIONS}, Marsch abbrechen!" />
+    <string id="everyone_march" text="Alle! Marsch!" />
+    <string id="everyone_dismiss" text="Alle! Marsch abbrechen!" />
+  </strings>
+</base>
+
+  <!-- Translated with Bannerlord Localization Helper
+  https://www.nexusmods.com/mountandblade2bannerlord/mods/9264 -->
